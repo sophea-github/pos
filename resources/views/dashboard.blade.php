@@ -1,3 +1,5 @@
+{{-- hello from seanghai branch --}}
+
 @extends('layout.master')
 
 @push('plugin-styles')
