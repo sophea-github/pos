@@ -1,4 +1,6 @@
-@extends('layout.master')
+
+
+{{-- hello from bunchhouy branch --}}
 
 @push('plugin-styles')
   <!-- {!! Html::style('/assets/plugins/plugin.css') !!} -->
